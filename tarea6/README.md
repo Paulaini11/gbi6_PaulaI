@@ -12,7 +12,13 @@ Tipo de sistema	Sistema operativo de 64 bits, procesador x64
 Lápiz y entrada táctil	La entrada táctil o manuscrita no está disponible para esta pantalla
 ## Detalles de la tarea 
 - Creer un módulo alelos.py con las tres funciones llamada secuencialmente. Cada función tiene una sección de explicación.
+  1. FUNCIÓN 1. Creación de una población con alelos al azar
+  2. FUNCIÓN 2. Conteo de pares de alelos
+  3. FUNCIÓN 3. Creación de nueva población
 - Creer un Júpiter Notebook tarea6_alelos.ipynb, importe el módulo alelos y ejecute las funciones hasta obtener la generación 100.
+  1. importar todos lo modulos a usar (alelos)
+  2. explicar cada funcion 
+  3. ejecutar el codigo 
 - Creer un repositorio en GitHub de nombre tarea6 y guarde los dos archivos de la tarea. 
 - Creer el Readme con los detalles de la actividad
 - Pegue el enlace del repositorio en la actividad T6_alelos de Moodle
