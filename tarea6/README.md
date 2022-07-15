@@ -1,4 +1,4 @@
-# Bioinformatica 
+# ** Bioinformatica ** 
 ![Image text](https://github.com/Paulaini11/gbi6_PaulaI/blob/main/tarea6/descarga.png) 
 
 ### Datos del estudiante 
