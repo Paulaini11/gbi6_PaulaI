@@ -12,4 +12,6 @@ Id. del dispositivo	BDA64E05-3CD2-4A57-B563-76CC3EFD9E20
 Id. del producto	00331-10000-00001-AA298
 Tipo de sistema	Sistema operativo de 64 bits, procesador x64
 Lápiz y entrada táctil	La entrada táctil o manuscrita no está disponible para esta pantalla
-## Detalles de la prueba 
+ 
+## Programas utilizados
+Anaconda3 2021.05 (Python 3.8.8 64-bit) para ejecutar Jupyter Notebook 6.3.0
