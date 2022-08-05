@@ -15,3 +15,16 @@ Lápiz y entrada táctil	La entrada táctil o manuscrita no está disponible par
  
 ## Programas utilizados
 Anaconda3 2021.05 (Python 3.8.8 64-bit) para ejecutar Jupyter Notebook 6.3.0
+tabulate (0.8.10)
+biopython (1.79)
+nglview (3.0.3)
+pgeocode (0.3.0)
+## Explicación de la data utilizada
+elp on function download_pubmed in module miningscience:
+
+download_pubmed(keyword)
+    Función que extrae listado de artículos desde pubmed
+
+def download_pubmed(keyword): 
+    """ Función que extrae listado de artículos desde pubmed """
+    
